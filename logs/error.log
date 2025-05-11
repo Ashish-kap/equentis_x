@@ -1,0 +1,13 @@
+{"level":"error","message":"Token Error: invalid signature","timestamp":"2025-05-10 15:06:52"}
+{"level":"error","message":"Token Error: jwt expired","timestamp":"2025-05-10 16:25:36"}
+{"level":"error","message":"Token Error: jwt expired","timestamp":"2025-05-10 17:53:41"}
+{"level":"error","message":"login error: database \"task_db\" does not exist","timestamp":"2025-05-10 18:43:05"}
+{"level":"error","message":"login error: User.findOne is not a function","timestamp":"2025-05-11 00:35:29"}
+{"level":"error","message":"Registration error: User.create is not a function","timestamp":"2025-05-11 00:45:48"}
+{"level":"error","message":"Registration error: User.create is not a function","timestamp":"2025-05-11 00:47:16"}
+{"level":"error","message":"Registration error: invalid input syntax for type integer: \"8cc224f2-3c35-47f9-b96b-dd3e92de0194\"","timestamp":"2025-05-11 01:01:49"}
+{"level":"error","message":"Registration error: invalid input syntax for type integer: \"9b0a4ff8-cb65-4d4e-b9a4-84420510afb1\"","timestamp":"2025-05-11 01:06:05"}
+{"level":"error","message":"Registration error: invalid input syntax for type integer: \"8f222ff4-21d0-4ac5-9829-ae5552a8b1ec\"","timestamp":"2025-05-11 01:08:38"}
+{"level":"error","message":"Registration error: invalid input syntax for type integer: \"08eca40b-5421-47fd-b8bf-d0c18f7dad26\"","timestamp":"2025-05-11 01:09:13"}
+{"level":"error","message":"Registration error: Cannot read properties of undefined (reading 'create')","timestamp":"2025-05-11 02:01:31"}
+{"level":"error","message":"Registration error: Cannot read properties of undefined (reading 'create')","timestamp":"2025-05-11 02:07:45"}
